@@ -1,0 +1,13 @@
+{
+	"name"           : "comment-builder",
+	"version"        : "0.1.0",
+	"description"    : "JS Comment Builder",
+	"main"           : "CommentBuilder.js",
+	"author"         : "Michael Rochelle",
+	"license"        : "MIT",
+	"keywords"		 : ["commetbuilder", "comment", "builder", "doc", "comment builder"],
+	"homepage"       : "https://github.com/EliteScientist/comment-builder",
+	"bugs"			 : {
+						"url": "https://github.com/EliteScientist/comment-builder/issues"
+					   }
+}
